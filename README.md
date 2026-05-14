@@ -1,4 +1,4 @@
-<div align="center">
+.<div align="center">
   <br/>
   <img 
     src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" width="140" 
